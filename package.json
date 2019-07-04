@@ -1,0 +1,19 @@
+{
+  "name": "ace-utils",
+  "version": "1.0.0",
+  "description": "A collection of useful Javascript functions. Pure javascript without dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acestojanoski/ace-utils.git"
+  },
+  "author": "Aleksandar Stojanoski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acestojanoski/ace-utils/issues"
+  },
+  "homepage": "https://github.com/acestojanoski/ace-utils#readme"
+}
