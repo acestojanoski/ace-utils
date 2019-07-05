@@ -1,3 +1,3 @@
-const utils = require('./src/utils');
+const utils = require('./src');
 
 module.exports = utils;
